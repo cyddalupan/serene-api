@@ -35,7 +35,7 @@
     <h2>Contact Us</h2>
     <p>Reach out any time — we typically respond within one business day.</p>
     <div class="contact-box">
-        <strong>Support email:</strong> <code>support@toybits.cloud</code><br>
+        <strong>Support email:</strong> <code>cydmdalupan@gmail.com</code><br>
         <strong>For employees:</strong> your company's administrator is the fastest first point of contact for account and assignment questions.<br>
         <strong>For administrators:</strong> include your company name and the affected account details when writing in.
     </div>

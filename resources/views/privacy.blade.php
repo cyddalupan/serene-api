@@ -92,7 +92,7 @@
         contact us at:
     </p>
     <div class="contact-box">
-        <strong>Privacy contact:</strong> <code>privacy@toybits.cloud</code><br>
+        <strong>Privacy contact:</strong> <code>cydmdalupan@gmail.com</code><br>
         Serene · serene.toybits.cloud
     </div>
 @endsection
