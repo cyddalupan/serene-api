@@ -1,4 +1,5 @@
 # SERENE
+Strengthen Employees. Refine Expertise. Natural Excellence.
 
 ## Product & Technical Architecture Documentation
 
