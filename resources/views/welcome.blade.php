@@ -75,6 +75,7 @@
         <span class="domain">https://serene.toybits.cloud</span><br>
         <span class="badge">🔒 SSL Active · Laravel {{ Illuminate\Foundation\Application::VERSION }}</span>
         <div class="stack">PHP {{ PHP_VERSION }} · Apache · SQLite</div>
+        <div class="stack"><a href="/privacy" style="color:#7dd3fc">Privacy</a> · <a href="/support" style="color:#7dd3fc">Support</a></div>
     </main>
 </body>
 </html>
